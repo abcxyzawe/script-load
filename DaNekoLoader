@@ -1,5 +1,5 @@
 UniverseId, LinkKey,  LinkDiscord = tostring(game.GameId), "", ""
-LinkKey = "https://hohohubv.herokuapp.com/getkey"
+LinkKey = "https://hohohubv.herokuapp.com/partner/DaNeko%20Hub/get"
 LinkDiscord = "discord.gg/yCaYRCVc9B"
 
 local Hoho_Key = Instance.new("ScreenGui")
